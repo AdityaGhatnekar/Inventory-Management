@@ -4,7 +4,7 @@
 
 The business request for this data analyst project was an executive warehouse report for sales team, warehouse team and executive team to understand and navigate company's inventory. Below are variables for the project: 
 
-Inventory Costs: Report total inventory value and recognise the any risks to business.
+Inventory Costs: Report total inventory value and recognise any risks to business.
 
 Turnover: Navigate stock ins and outs to action re-ordering.
 
